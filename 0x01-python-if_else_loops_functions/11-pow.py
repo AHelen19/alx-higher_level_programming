@@ -6,4 +6,4 @@ def pow(a, b):
     elif b == 1:
         return a
     else:
-        return (a * pow(a, b - 1)
+        return (a * pow(a, b - 1))
