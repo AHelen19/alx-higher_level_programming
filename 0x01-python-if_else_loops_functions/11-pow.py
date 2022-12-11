@@ -1,9 +1,8 @@
 #!/usr/bin/python3
+# 11-pow.py
+# Brennan D Baraban <375@holbertonschool.com>
+
+
 def pow(a, b):
-    index = 1
-    if b == 0:
-        return 1
-    elif b == 1:
-        return a
-    else:
-        return (a * pow(a, b - 1))
+    """Return a to the power of b."""
+    return (a ** b)
