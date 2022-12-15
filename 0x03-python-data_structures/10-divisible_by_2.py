@@ -1,4 +1,5 @@
-sible_by_2.py
+#!/usr/bin/python3
+# 10-divisible_by_2.py
 # Brennan D Baraban <375@holbertonschool.com>
 
 
